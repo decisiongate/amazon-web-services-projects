@@ -1,0 +1,17 @@
+*.jpg
+*.png
+*.bmp
+diagrams-notes/
+tmp/fig/**
+temp/
+.metadata
+tmp/**/*
+*.tmp
+*.bak
+._*
+.Spotlight-V100
+.Trashes
+*.log
+*.*~
+*~
+.merge_file*
