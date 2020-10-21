@@ -14,7 +14,7 @@
 
 # Setup:
 - AWS SDK For Java: <br />
-- [mvnrepository/aws-java-sdk](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk/) <br />
+[mvnrepository/aws-java-sdk](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk/) <br />
 ```
 <!-- https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk -->
 <dependency>
@@ -24,7 +24,7 @@
 </dependency>
 ```
 - AWS Java SDK For Amazon S3: <br />
-- [mvnrepository/aws-java-sdk-s3](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-s3/) <br />
+[mvnrepository/aws-java-sdk-s3](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-s3/) <br />
 ```
 <!-- https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-s3 -->
 <dependency>
@@ -34,7 +34,7 @@
 </dependency>
 ```
 - AWS SDK For Java Core: <br />
-- [mvnrepository-aws-java-sdk-core/](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-core/) <br />
+[mvnrepository-aws-java-sdk-core/](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-core/) <br />
 ```
 <!-- https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-core -->
 <dependency>
@@ -44,7 +44,7 @@
 </dependency>
 ```
 - AWS Java SDK For Amazon EC2: <br />
-- [https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-ec2](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-ec2/) <br />
+[https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-ec2](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-ec2/) <br />
 ```
 <!-- https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-ec2 -->
 <dependency>
@@ -54,7 +54,13 @@
 </dependency>
 ```
 
-https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-project-maven.html
+# Getting Started with AWS: 
+[github.com/aws](https://github.com/aws) <br />
+[amazon.com/aws](https://amazon.com/aws) <br />
 
-https://github.com/aws/aws-sdk-java
+# Using the SDK: 
+- Using the SDK with Apache Maven: <br/>
+[docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-project-maven.html](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-project-maven.html)
 
+# Using GitHub aws-sdk-java: 
+[github.com/aws/aws-sdk-java](https://github.com/aws/aws-sdk-java)
