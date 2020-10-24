@@ -8,6 +8,7 @@
 ## Technology stack
 * OpenJDK
 * IntelliJ IDEA Ultimate
+* AWS Management Console
 
 ## Features
 * build plugins: maven-compiler-plugin, maven-assembly-plugin
