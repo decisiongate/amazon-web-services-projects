@@ -3,7 +3,9 @@
 ## Dependencies
 * Java: 8
 * Apache Maven: 3.3.0
-* AWS SDK For Java
+* AWS SDK for Java: Core, S3, EC2
+* Apache Spark: 3.0.0
+* Hadoop: 3.3.0
 
 ## Technology stack
 * OpenJDK
@@ -12,6 +14,7 @@
 
 ## Features
 * build plugins: maven-compiler-plugin, maven-assembly-plugin
+* Spark: spark-core_2.12, spark-sql_2.12
 
 # Setup:
 - AWS SDK For Java: <br />
@@ -56,12 +59,12 @@
 ```
 
 # Getting Started with AWS: 
-[github.com/aws](https://github.com/aws) <br />
-[amazon.com/aws](https://amazon.com/aws) <br />
+- [github.com/aws](https://github.com/aws) <br />
+- [amazon.com/aws](https://amazon.com/aws) <br />
 
 # Using the SDK: 
 - Using the SDK with Apache Maven: <br/>
 [docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-project-maven.html](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-project-maven.html)
 
 # Using GitHub aws-sdk-java: 
-[github.com/aws/aws-sdk-java](https://github.com/aws/aws-sdk-java)
+- [github.com/aws/aws-sdk-java](https://github.com/aws/aws-sdk-java)
