@@ -47,3 +47,39 @@ docker volume prune --filter"label!=keep"
 docker system prune
 - Additionally remove any stopped containers and all unused images:  
 docker system prune -a
+
+## Cleaning up the containers and resources:
+- Display all containers (all running + stopped):  
+docker ps -a  
+- Stop running container:  
+docker stop container-id
+- Remove container:  
+docker container rm container-id
+- Display a list of images available:  
+docker images
+- Removing image:  
+docker rmi image-id
+- Display the disk usage of the docker:  
+docker system df
+- See a list of volumes:  
+docker volume ls
+- Prune volumes used by containers:  
+docker volume prune
+- Clean up any resources: images, containers, volumes, and networks that are not associated with a container:  
+docker system prune
+- Clean up networks:  
+docker network rm network-id
+
+## Operations on ALL containers:  
+- Stop ALL containers:  
+ docker container stop $(docker container ls -aq)  
+- Remove ALL containers:  
+docker rm -f $(docker ps -a -q)  
+- Remove ALL images:  
+docker image prune -a  
+- Clean up ALL images:   
+docker rmi -f $(docker images -a -q)  
+- Clean up ALL volumes:  
+docker volume rm $(docker volume ls -q)  
+- Clean up ALL networks:  
+docker network rm $(docker network ls -q)  
