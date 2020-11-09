@@ -1,4 +1,4 @@
-# Amazon Web Services projects & applications
+# Amazon AWS dependencies & SDK
 	
 ## Dependencies
 * Java: 8
