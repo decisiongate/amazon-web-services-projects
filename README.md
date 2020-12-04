@@ -5,7 +5,7 @@
 * Amazon EC2
 	
 ## Content
-- [amazon-aws-dependencies-sdk](amazon-aws-dependencies-sdk/README.md)
-- [amazon-aws-docker-developer-tools-java](amazon-aws-docker-developer-tools-java/README.md)
+- [Amazon AWS dependencies & SDK](amazon-aws-dependencies-sdk/README.md)
+- [Amazon AWS Docker developer tools & Java](amazon-aws-docker-developer-tools-java/README.md)
 
 
