@@ -5,6 +5,7 @@
 * Amazon EC2
 * Amazon Lightsail
 * Amazon RDS
+* Deep Learning
 	
 ## Content
 - [Amazon AWS dependencies & SDK](amazon-aws-dependencies-sdk/README.md)
