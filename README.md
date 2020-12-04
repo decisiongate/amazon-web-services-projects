@@ -3,6 +3,8 @@
 ## Technology stack
 * Amazon S3
 * Amazon EC2
+* Amazon Lightsail
+* Amazon RDS
 	
 ## Content
 - [Amazon AWS dependencies & SDK](amazon-aws-dependencies-sdk/README.md)
