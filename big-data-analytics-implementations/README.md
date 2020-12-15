@@ -1,11 +1,11 @@
-## Big Data analytics implementations
+## Big Data Analytics Implementations
 
 ## Technology stack
 * Amazon AWS
 * Microsoft Azure
 * Google Cloud Platform
 
-## Big Data analytics implementations:
+## Big Data Analytics Implementations:
 - Classifications, predictions, trends
 - Correlations, sparse models, SVM
 - Distance & similarity measures
