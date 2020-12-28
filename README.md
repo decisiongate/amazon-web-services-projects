@@ -6,8 +6,10 @@
 * Amazon Elastic Kubernetes Service (EKS)
 * Amazon Lightsail
 * Amazon RDS
+* Amazon DynamoDB
 * Amazon Redshift
 * Deep Learning
+* Amazon Comprehend
 	
 ## Content
 - [Amazon AWS dependencies & SDK](amazon-aws-dependencies-sdk/README.md)
