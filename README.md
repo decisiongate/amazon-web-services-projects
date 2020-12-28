@@ -2,9 +2,11 @@
 
 ## Technology stack
 * Amazon S3
-* Amazon EC2
+* Amazon Elastic Compute Cloud (EC2)
+* Amazon Elastic Kubernetes Service (EKS)
 * Amazon Lightsail
 * Amazon RDS
+* Amazon Redshift
 * Deep Learning
 	
 ## Content
