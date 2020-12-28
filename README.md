@@ -10,6 +10,7 @@
 * Amazon Redshift
 * Deep Learning
 * Amazon Comprehend
+* Amazon Elasticsearch Service
 	
 ## Content
 - [Amazon AWS dependencies & SDK](amazon-aws-dependencies-sdk/README.md)
