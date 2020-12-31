@@ -14,7 +14,7 @@
 	
 ## Content
 - [Amazon AWS dependencies & SDK](amazon-aws-dependencies-sdk/README.md)
-- [Amazon AWS tools to Build on AWS](amazon-aws-tools-to-build-on-aws/README.md)
+- [Amazon AWS tools to build on AWS](amazon-aws-tools-to-build-on-aws/README.md)
 - [Amazon AWS Docker developer tools & Java](amazon-aws-docker-developer-tools-java/README.md)
 - [Big Data Analytics Implementations](big-data-analytics-implementations/README.md)
 - [Big Data Experience & Activities](big-data-experience-activities/README.md)

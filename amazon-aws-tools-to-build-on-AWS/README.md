@@ -31,3 +31,10 @@
 - https://aws.amazon.com/articles/python/
 - https://github.com/boto/boto3
 - https://stackoverflow.com/search?q=%5Bamazon-web-services%5D+python
+- https://aws.amazon.com/blogs/developer/category/programing-language/python/
+
+## Links for PHP:
+- https://aws.amazon.com/sdk-for-php/
+- https://aws.amazon.com/cloud9/
+- https://aws.amazon.com/developer/language/php/
+- https://github.com/aws/aws-sdk-php
