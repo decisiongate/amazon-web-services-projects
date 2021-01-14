@@ -4,3 +4,9 @@
 
 ## Technology stack
 * Amazon AWS
+
+
+* Guides and API References
+* Tutorials and Projects
+* SDKs and Toolkits
+* General Resources
