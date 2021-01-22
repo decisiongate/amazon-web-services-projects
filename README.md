@@ -13,6 +13,7 @@
 * Amazon Elasticsearch Service
 	
 ## Content
+- [Amazon AWS - Database services](amazon-aws-database-services/README.md)
 - [Amazon AWS - Dependencies & SDK](amazon-aws-dependencies-sdk/README.md)
 - [Amazon AWS - Docker developer tools & Java](amazon-aws-docker-developer-tools-java/README.md)
 - [Amazon AWS - Documentation](amazon-aws-documentation/README.md)
