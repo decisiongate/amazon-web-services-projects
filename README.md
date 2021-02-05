@@ -8,7 +8,7 @@
 * Amazon RDS
 * Amazon DynamoDB
 * Amazon Redshift
-* Deep Learning
+* AWS Deep Learning AMIs
 * Amazon Comprehend
 * Amazon Elasticsearch Service
 	
