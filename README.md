@@ -1,16 +1,16 @@
 # Projects for Amazon Web Services
 
 ## Technology stack
-* Amazon S3
-* Amazon Elastic Compute Cloud (EC2)
-* Amazon Elastic Kubernetes Service (EKS)
-* Amazon Lightsail
-* Amazon RDS
-* Amazon DynamoDB
-* Amazon Redshift
+* AWS S3
+* AWS Elastic Compute Cloud (EC2)
+* AWS Elastic Kubernetes Service (EKS)
+* AWS Lightsail
+* AWS RDS
+* AWS DynamoDB
+* AWS Redshift
 * AWS Deep Learning AMIs
-* Amazon Comprehend
-* Amazon Elasticsearch Service
+* AWS Comprehend
+* AWS Elasticsearch Service
 	
 ## Content
 - [Amazon AWS - Architecture Center](amazon-aws-architectures/README.md)
