@@ -1,4 +1,4 @@
-# Projects for Amazon Web Services
+# Cloud Projects - Amazon Web Services (AWS)
 
 ## Technology stack
 * AWS S3
