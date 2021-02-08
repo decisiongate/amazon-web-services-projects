@@ -23,3 +23,4 @@
 - [AWS - Tools to build on AWS](amazon-aws-tools-to-build-on-aws/README.md)
 - [Big Data Analytics - Implementations](big-data-analytics-implementations/README.md)
 - [Big Data - Experience & Activities](big-data-experience-activities/README.md)
+- [Big Data - Data management](big-data-data-management/README.md)
