@@ -1,6 +1,6 @@
 # Cloud Projects - Amazon Web Services (AWS)
 
-### Technology stack
+## Technology stack
 * AWS S3
 * AWS Elastic Compute Cloud (EC2)
 * AWS Elastic Kubernetes Service (EKS)
@@ -12,7 +12,7 @@
 * AWS Comprehend
 * AWS Elasticsearch Service
 	
-### Content
+## Content
 - [AWS - Architecture Center](amazon-aws-architectures/README.md)
 - [AWS - Database services](amazon-aws-database-services/README.md)
 - [AWS - Dependencies & SDK](amazon-aws-dependencies-sdk/README.md)
